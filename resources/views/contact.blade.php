@@ -3,31 +3,18 @@
       <h2 class="heading heading-sec heading-sec__mb-med">
         <span class="heading-sec__main heading-sec__main--lt">Contact</span>
         <span class="heading-sec__sub heading-sec__sub--lt">
-          Feel free to Contact me by submitting the form below and I will get
+          Feel free to Contact me, I will get
           back to you as soon as possible
         </span>
       </h2>
-      <div class="contact__form-container">
-        <form action='#' class='contact__form' method='post'><input type='hidden' name='form-name' value='form 1' />
-          <div class="contact__form-field">
-            <label class="contact__form-label" for="name">Name</label>
-            <input required placeholder="Enter Your Name" type="text" class="contact__form-input" name="name"
-              id="name" />
-          </div>
-          <div class="contact__form-field">
-            <label class="contact__form-label" for="email">Email</label>
-            <input required placeholder="Enter Your Email" type="email" class="contact__form-input" name="email"
-              id="email" />
-          </div>
-          <div class="contact__form-field">
-            <label class="contact__form-label" for="message">Message</label>
-            <textarea required cols="30" rows="10" class="contact__form-input" placeholder="Enter Your Message"
-              name="message" id="message"></textarea>
-          </div>
-          <button type="submit" class="btn btn--theme contact__btn">
-            Submit
-          </button>
-        </form>
+      
+      <div>
+        <center>
+          <h1 class="heading-sec__sub heading-sec__sub--lt"> <strong>Email :</strong> mboumbamelcki@gmail.com</h1><br>
+          <h2 class="heading-sec__sub heading-sec__sub--lt"> <strong>Whatsapp :</strong> +212 777571278</h2><br>
+          <h2 class="heading-sec__sub heading-sec__sub--lt"> <strong>Téléphone : </strong>+212 645418267</h2>
+        </center>
+        
       </div>
     </div>
   </section>
